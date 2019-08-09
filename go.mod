@@ -1,4 +1,4 @@
-module github.com/coredns/kubernetai
+module github.com/flamingcow66/kubernetai
 
 go 1.12
 
